@@ -1,2 +1,2 @@
-# akka-cross-domain-server
-Scala Akka cross domain server for Adobe Flash clients
+# akka-cross-domain-policy
+Scala Akka cross-domain policy server for Adobe Flash clients
